@@ -1,0 +1,178 @@
+==Frequent itemsets (min_sup=1%)
+[london_planetree], 26.6%
+[honeylocust], 22%
+[callery_pear], 21.1%
+[pin_oak], 19.7%
+[norway_maple], 18%
+[cherry], 14%
+[littleleaf_linden], 13.9%
+[japanese_zelkova], 12.5%
+[red_maple], 9.18%
+[sophora], 8.67%
+[ginkgo], 8.42%
+[silver_maple], 7.86%
+[american_linden], 7.26%
+[green_ash], 7.01%
+[london_planetree, norway_maple], 6.39%
+[callery_pear, london_planetree], 5.49%
+[sweetgum], 5.14%
+[london_planetree, pin_oak], 5.1%
+[honeylocust, london_planetree], 5.06%
+[callery_pear, honeylocust], 4.82%
+[northern_red_oak], 4.59%
+[silver_linden], 4.53%
+[callery_pear, norway_maple], 4.43%
+[callery_pear, pin_oak], 4.34%
+[littleleaf_linden, london_planetree], 4.08%
+[norway_maple, pin_oak], 3.96%
+[purple-leaf_plum], 3.94%
+[honeylocust, pin_oak], 3.88%
+[callery_pear, cherry], 3.67%
+[cherry, london_planetree], 3.66%
+[honeylocust, littleleaf_linden], 3.62%
+[callery_pear, littleleaf_linden], 3.58%
+[crimson_king_maple], 3.44%
+[honeylocust, norway_maple], 3.43%
+[american_elm], 3.41%
+[swamp_white_oak], 3.35%
+[maple], 3.34%
+[littleleaf_linden, norway_maple], 3.23%
+[cherry, norway_maple], 3.17%
+[japanese_zelkova, london_planetree], 3.14%
+[honeylocust, japanese_zelkova], 3.06%
+[littleleaf_linden, pin_oak], 2.97%
+[callery_pear, japanese_zelkova], 2.93%
+[norway_maple, red_maple], 2.93%
+[london_planetree, red_maple], 2.87%
+[callery_pear, red_maple], 2.86%
+['schubert'_chokecherry], 2.81%
+[honeylocust, sophora], 2.8%
+[norway_maple, silver_maple], 2.69%
+[chinese_elm], 2.65%
+[london_planetree, silver_maple], 2.65%
+[japanese_tree_lilac], 2.58%
+[cherry, pin_oak], 2.56%
+[american_linden, littleleaf_linden], 2.49%
+[ginkgo, honeylocust], 2.47%
+[cherry, honeylocust], 2.44%
+[japanese_zelkova, littleleaf_linden], 2.44%
+[japanese_zelkova, pin_oak], 2.38%
+[japanese_zelkova, norway_maple], 2.35%
+[eastern_redbud], 2.29%
+[ginkgo, london_planetree], 2.19%
+[london_planetree, sophora], 2.18%
+[callery_pear, silver_maple], 2.16%
+[callery_pear, ginkgo], 2.15%
+[callery_pear, sophora], 2.13%
+[pin_oak, red_maple], 2.11%
+[american_linden, london_planetree], 2.1%
+[golden_raintree], 2.07%
+[crab_apple], 2.06%
+[cherry, littleleaf_linden], 1.98%
+[american_linden, callery_pear], 1.92%
+[green_ash, london_planetree], 1.91%
+[northern_red_oak, pin_oak], 1.9%
+[sycamore_maple], 1.89%
+[sugar_maple], 1.85%
+[pin_oak, silver_maple], 1.83%
+[green_ash, norway_maple], 1.8%
+[american_linden, honeylocust], 1.77%
+[callery_pear, green_ash], 1.76%
+[green_ash, honeylocust], 1.76%
+[american_linden, norway_maple], 1.73%
+[callery_pear, london_planetree, norway_maple], 1.72%
+[honeylocust, red_maple], 1.72%
+[ginkgo, pin_oak], 1.71%
+[cherry, red_maple], 1.7%
+[pin_oak, sophora], 1.7%
+[kentucky_coffeetree], 1.7%
+[red_maple, silver_maple], 1.69%
+[cherry, japanese_zelkova], 1.69%
+[callery_pear, sweetgum], 1.67%
+[littleleaf_linden, sophora], 1.67%
+[london_planetree, sweetgum], 1.59%
+[littleleaf_linden, silver_linden], 1.59%
+[hedge_maple], 1.58%
+[american_linden, pin_oak], 1.58%
+[london_planetree, norway_maple, pin_oak], 1.57%
+[ginkgo, littleleaf_linden], 1.56%
+[hawthorn], 1.56%
+[willow_oak], 1.54%
+[cherry, silver_maple], 1.54%
+[dawn_redwood], 1.51%
+[norway_maple, sophora], 1.51%
+[green_ash, pin_oak], 1.49%
+[japanese_zelkova, sophora], 1.46%
+[callery_pear, london_planetree, pin_oak], 1.45%
+[callery_pear, honeylocust, london_planetree], 1.44%
+[london_planetree, silver_linden], 1.44%
+[littleleaf_linden, red_maple], 1.43%
+[ginkgo, norway_maple], 1.43%
+[pin_oak, sweetgum], 1.39%
+[green_ash, littleleaf_linden], 1.36%
+[honeylocust, london_planetree, norway_maple], 1.35%
+[littleleaf_linden, london_planetree, norway_maple], 1.33%
+[norway_maple, silver_linden], 1.31%
+[amur_maple], 1.3%
+[ash], 1.29%
+[amur_maackia], 1.28%
+[callery_pear, silver_linden], 1.28%
+[honeylocust, silver_maple], 1.27%
+[norway_maple, sweetgum], 1.26%
+[callery_pear, littleleaf_linden, london_planetree], 1.24%
+[cherry, purple-leaf_plum], 1.24%
+[american_linden, japanese_zelkova], 1.24%
+[ginkgo, japanese_zelkova], 1.23%
+[callery_pear, norway_maple, pin_oak], 1.22%
+[crimson_king_maple, norway_maple], 1.21%
+[serviceberry], 1.21%
+[london_planetree, northern_red_oak], 1.21%
+[cherry, london_planetree, norway_maple], 1.2%
+[common_hackberry], 1.2%
+[crimson_king_maple, london_planetree], 1.2%
+[japanese_zelkova, red_maple], 1.19%
+[honeylocust, silver_linden], 1.17%
+[honeylocust, littleleaf_linden, london_planetree], 1.17%
+[honeylocust, london_planetree, pin_oak], 1.17%
+[callery_pear, honeylocust, littleleaf_linden], 1.17%
+[littleleaf_linden, silver_maple], 1.15%
+[sawtooth_oak], 1.14%
+[callery_pear, honeylocust, pin_oak], 1.14%
+[red_maple, sweetgum], 1.14%
+[european_hornbeam], 1.13%
+[london_planetree, norway_maple, red_maple], 1.13%
+[pin_oak, swamp_white_oak], 1.13%
+[callery_pear, cherry, london_planetree], 1.12%
+[callery_pear, crimson_king_maple], 1.11%
+[callery_pear, purple-leaf_plum], 1.1%
+[pin_oak, silver_linden], 1.09%
+[london_planetree, purple-leaf_plum], 1.09%
+[ginkgo, sophora], 1.07%
+[littleleaf_linden, london_planetree, pin_oak], 1.07%
+[london_planetree, norway_maple, silver_maple], 1.06%
+[honeylocust, northern_red_oak], 1.06%
+[flowering_dogwood], 1.05%
+[green_ash, japanese_zelkova], 1.04%
+[cherry, sophora], 1.04%
+[honeylocust, sweetgum], 1.03%
+[callery_pear, cherry, norway_maple], 1.02%
+[london_planetree, maple], 1.01%
+[callery_pear, littleleaf_linden, norway_maple], 1.01%
+[white_oak], 1.01%
+
+
+==High-confidence association rules (min_conf=35%)
+[northern_red_oak] => [pin_oak] (Conf: 41.5%, Supp: 1.9%)
+[littleleaf_linden, norway_maple] => [london_planetree] (Conf: 41.1%, Supp: 1.33%)
+[london_planetree, silver_maple] => [norway_maple] (Conf: 40.2%, Supp: 1.06%)
+[norway_maple, silver_maple] => [london_planetree] (Conf: 39.6%, Supp: 1.06%)
+[norway_maple, pin_oak] => [london_planetree] (Conf: 39.6%, Supp: 1.57%)
+[london_planetree, red_maple] => [norway_maple] (Conf: 39.4%, Supp: 1.13%)
+[honeylocust, norway_maple] => [london_planetree] (Conf: 39.3%, Supp: 1.35%)
+[callery_pear, norway_maple] => [london_planetree] (Conf: 38.8%, Supp: 1.72%)
+[norway_maple, red_maple] => [london_planetree] (Conf: 38.6%, Supp: 1.13%)
+[cherry, norway_maple] => [london_planetree] (Conf: 38%, Supp: 1.2%)
+[littleleaf_linden, pin_oak] => [london_planetree] (Conf: 35.9%, Supp: 1.07%)
+[norway_maple] => [london_planetree] (Conf: 35.5%, Supp: 6.39%)
+[crimson_king_maple] => [norway_maple] (Conf: 35.2%, Supp: 1.21%)
+[silver_linden] => [littleleaf_linden] (Conf: 35.1%, Supp: 1.59%)
